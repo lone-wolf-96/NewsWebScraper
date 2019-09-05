@@ -1,10 +1,10 @@
-# [NewsWebScrapper](https://github.com/lone-wolf-96/NewsWebScrapper/)
+# [News Web Scraper](https://github.com/lone-wolf-96/NewsWebScraper/)
 
 Webscrapper básico con propósitos académicos.
 
 ## Configuración
 
-Las instrucciones necesarias se encuentran en el archivo [Doc_News_Web_Scrapper.docx](https://github.com/lone-wolf-96/NewsWebScrapper/blob/master/Doc_News_Web_Scrapper.docx)
+Las instrucciones necesarias se encuentran en el archivo [Doc_News_Web_Scraper.docx](https://github.com/lone-wolf-96/NewsWebScrapper/blob/master/Doc_News_Web_Scraper.docx)
 
 ### Instalación
 
