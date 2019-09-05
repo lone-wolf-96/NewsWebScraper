@@ -1,6 +1,6 @@
 # [News Web Scraper](https://github.com/lone-wolf-96/NewsWebScraper/)
 
-Webscrapper básico con propósitos académicos.
+Web Scraper básico con propósitos académicos.
 
 ## Configuración
 
